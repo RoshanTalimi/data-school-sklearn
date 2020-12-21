@@ -1,1 +1,1 @@
-# data-school-sklearn
+# Learning scikit-learn
