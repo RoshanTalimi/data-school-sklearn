@@ -1,1 +1,1 @@
-# Learning scikit-learn
+# Learn scikit-learn
