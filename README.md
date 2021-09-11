@@ -1,1 +1,1 @@
-# Learn scikit-learn
+#Data School scikit-learn tips
