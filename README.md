@@ -5,6 +5,7 @@ Lessions can be found here:
 https://github.com/justmarkham/scikit-learn-tips  
 https://www.youtube.com/playlist?list=PL5-da3qGB5ID7YYAqireYEew2mWVvgmj6
 
+How to get started:
 
 ```
 python3.8 -m venv venv
