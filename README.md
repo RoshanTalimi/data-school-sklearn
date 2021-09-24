@@ -1,6 +1,6 @@
 # Data School scikit-learn tips
 
-https://github.com/justmarkham/scikit-learn-tips 
+https://github.com/justmarkham/scikit-learn-tips  
 https://www.youtube.com/playlist?list=PL5-da3qGB5ID7YYAqireYEew2mWVvgmj6
 
 ```
